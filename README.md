@@ -1,5 +1,5 @@
 <p align="center" >
-  <img src="logo.png" style="width:128px;" />
+  <img src="logo-128.png" style="width:128px;" />
 </p>
 
 # About Turbine
