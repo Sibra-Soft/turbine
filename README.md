@@ -1,9 +1,14 @@
-<p align="center" >
-  <img src="logo-128.png" style="width:128px;" />
+<p align="center" dir="auto">
+    <themed-picture data-catalyst-inline="true" data-catalyst="">
+      <picture>
+        <img src="logo-128.png" style="visibility:visible;max-width:100%;">
+      </picture>
+    </themed-picture>
+    <br>
+    <strong>Easy to use PHP framework and CMS</strong>
 </p>
 
-# About Turbine
-PHP framework for running websites and webapplications
+Turbine is a PHP framework designed for building websites and web applications efficiently. It offers a streamlined, modular structure that simplifies development by providing tools for routing, database interaction, templating, and more. Turbine focuses on delivering high performance and scalability, allowing developers to quickly create responsive, secure, and feature-rich applications. Its flexibility makes it suitable for both small projects and large, complex web platforms.
 
 ## Getting started
 * [Requirements](https://github.com/Sibra-Soft/light-wine-framework/wiki)
