@@ -24,4 +24,4 @@ PHP framework for running websites and webapplications
 * [Query builder](https://github.com/Sibra-Soft/LightWineFramework/wiki/Database-Service)
   
 ## Managing your Turbine project
-To manage your project you can install [Turbine Cms](https://github.com/Sibra-Soft/LightWineFramework/wiki/Database-Service)
+To manage your project you can install [Turbine Cms](https://github.com/Sibra-Soft/turbine-cms)
